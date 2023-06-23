@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darima</h1>
-<h3 align="center">I'm a software developer with analytics background based in Berlin.</h3>
+<h3 align="center">I'm a software developer with an analytics background based in Berlin.</h3>
 
 - 👩🏻‍💻 I finished the LeWagon Full Stack Web Development Bootcamp in June 2023
 - 👯 I’m looking to collaborate on projects at the intersection between culture, society and technology
