@@ -1,8 +1,19 @@
-<h1 align="center">Hi 👋, I'm Darima</h1>
-<h3 align="center">I'm a software developer with an analytics background based in Berlin.</h3>
+<h1 align="center">Hi 👋, I'm Darima and welcome to my Portfolio</h1>
 
-- 👩🏻‍💻 I finished the LeWagon Full Stack Web Development Bootcamp in June 2023
-- 👯 I’m looking to collaborate on projects at the intersection between culture, society and technology
+
+### Project 1: [DailyBloom](http://www.daily-bloom.me/)
+- Description: Making mindfulness fun and social. More mindful than BeReal, more fun than Headspace
+- Technologies Used: Ruby on Rails, Javascript, HTML & CSS, Bootstrap, AJAX search
+- GitHub Repository: https://github.com/dpivovarova94/DAILY_BLOOM_DARIMA 
+
+<img width="530" alt="image" src="https://github.com/dpivovarova94/dpivovarova94/assets/19571243/a787a9c3-a082-4a01-b9c8-8a246f4f7609">
+
+### Project 2: [Apptitude](https://apptitude-antoniasteitz.herokuapp.com/)
+- Description: A platform for exchanging skills
+- Technologies Used: Ruby on Rails, Javascript, HTML & CSS, Bootstrap
+- GitHub Repository: https://github.com/AntoniaSteitz/Apptitude
+  
+<img width="1393" alt="image" src="https://github.com/dpivovarova94/dpivovarova94/assets/19571243/a0a16599-cea9-498c-8554-34c755e6ad60">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
